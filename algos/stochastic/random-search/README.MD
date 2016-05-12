@@ -10,6 +10,11 @@ Random search don't remember any previous selection thus can re-sample same solu
 We are trying to search for a number between `-5.0` and `+5.0`, that should have minimum value for following cost function.
 
 ```js
-var costFx = (n,i) => ( (n^2) * i );
+/**
+ * Where `n` is the candidate and `i` is expansion factor
+ * We can use any kind of cost function, that can evaluate candidate
+ */
+let costFx = (n,i) => ( (n^2) * i );
 ```
-Optimum solution is `0.0` in this case.
+
+Optimum solution is `50` for `i = 2`, two solution exists `-5` and `+5`;
