@@ -15,10 +15,10 @@ Algorithms will be structured in same way as they are in the book itself.
 #### Stochastic Optimization
 
 ([Book Chapter Link](http://cleveralgorithms.com/nature-inspired/stochastic.html))
-([Code Link](https://github.com/sushantdhiman/clever-algorithms/algos/stochastic))
+([Code Link](https://github.com/sushantdhiman/clever-algorithms/tree/master/algos/stochastic))
 
 ##### Algorithms
-* [Random Search](https://github.com/sushantdhiman/clever-algorithms/algos/stochastic/random-search)
+* [Random Search](https://github.com/sushantdhiman/clever-algorithms/tree/master/algos/stochastic/random-search)
 * Adaptive Random Search
 * Stochastic Hill Climbing
 * Iterated Local Search
