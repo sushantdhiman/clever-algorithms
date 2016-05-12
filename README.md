@@ -18,7 +18,7 @@ Algorithms will be structured in same way as they are in the book itself.
 ([Code Link](https://github.com/sushantdhiman/clever-algorithms/algos/stochastic))
 
 ##### Algorithms
-* Random Search
+* [Random Search](https://github.com/sushantdhiman/clever-algorithms/algos/stochastic/random-search)
 * Adaptive Random Search
 * Stochastic Hill Climbing
 * Iterated Local Search
